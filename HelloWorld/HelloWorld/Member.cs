@@ -1,4 +1,4 @@
-﻿namespace HelloWorld
+﻿namespace SplitWise
 {
     public class Member
     {

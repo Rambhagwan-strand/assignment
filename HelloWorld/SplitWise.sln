@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.26730.16
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld", "HelloWorld\HelloWorld.csproj", "{BD6589B3-8E04-4BBC-BAF0-D736AC32B78A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SplitWise", "HelloWorld\SplitWise.csproj", "{BD6589B3-8E04-4BBC-BAF0-D736AC32B78A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

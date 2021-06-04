@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\New folder\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\User\Desktop\New folder\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\User\Desktop\New folder\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\User\Desktop\New folder\HelloWorld\HelloWorld\obj\Debug\SplitWise.csprojAssemblyReference.cache
+C:\Users\User\Desktop\New folder\HelloWorld\HelloWorld\obj\Debug\SplitWise.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\New folder\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\User\Desktop\New folder\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
